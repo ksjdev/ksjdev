@@ -25,11 +25,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/70" target="_blank">이펙티브 엔지니어 | 에드먼드 라우</a>
-2. <a href="https://shqpdltm.tistory.com/68" target="_blank">어른의 기분 관리법 | 손힘찬, 이영탁, 이현정, 승PD, 박은주 저 외 4명</a>
-3. <a href="https://shqpdltm.tistory.com/69" target="_blank">실패는 나침반이다 | 한기용</a>
-4. <a href="https://shqpdltm.tistory.com/67" target="_blank">뒤늦게 올리는 맹그로브 제주의 추억(11/18 ~ 11/20)</a>
-5. <a href="https://shqpdltm.tistory.com/66" target="_blank">2024 신입 프론트엔드 개발자 취준 회고 2편</a>
+1. <a href="https://shqpdltm.tistory.com/71" target="_blank">더 레이저 | 정주영</a>
+2. <a href="https://shqpdltm.tistory.com/70" target="_blank">이펙티브 엔지니어 | 에드먼드 라우</a>
+3. <a href="https://shqpdltm.tistory.com/68" target="_blank">어른의 기분 관리법 | 손힘찬, 이영탁, 이현정, 승PD, 박은주 저 외 4명</a>
+4. <a href="https://shqpdltm.tistory.com/69" target="_blank">실패는 나침반이다 | 한기용</a>
+5. <a href="https://shqpdltm.tistory.com/67" target="_blank">뒤늦게 올리는 맹그로브 제주의 추억(11/18 ~ 11/20)</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
