@@ -34,7 +34,7 @@
 <!-- LATEST_POSTS_END -->
 </div>
 <details open>
-  <summary>최근 TIL & 번역 작성 목록</summary>
+  <summary>WIL</summary>
 <!-- LATEST_TILS -->
 
 1. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-24%EB%85%84-52%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 24년 52주차</a>
