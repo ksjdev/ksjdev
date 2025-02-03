@@ -25,11 +25,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/73" target="_blank">살의는 반드시 세 번 느낀다 | 히가시가와 도쿠야</a>
-2. <a href="https://shqpdltm.tistory.com/72" target="_blank">주니어 개발자의 2024년 인생 회고</a>
-3. <a href="https://shqpdltm.tistory.com/71" target="_blank">더 레이저 | 정주영</a>
-4. <a href="https://shqpdltm.tistory.com/70" target="_blank">이펙티브 엔지니어 | 에드먼드 라우</a>
-5. <a href="https://shqpdltm.tistory.com/68" target="_blank">어른의 기분 관리법 | 손힘찬, 이영탁, 이현정, 승PD, 박은주 저 외 4명</a>
+1. <a href="https://shqpdltm.tistory.com/74" target="_blank">2025에 갖추고 싶은 역량</a>
+2. <a href="https://shqpdltm.tistory.com/75" target="_blank">함께 자라기, 애자일로 가는 길 | 김창준</a>
+3. <a href="https://shqpdltm.tistory.com/73" target="_blank">살의는 반드시 세 번 느낀다 | 히가시가와 도쿠야</a>
+4. <a href="https://shqpdltm.tistory.com/72" target="_blank">주니어 개발자의 2024년 인생 회고</a>
+5. <a href="https://shqpdltm.tistory.com/71" target="_blank">더 레이저 | 정주영</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
