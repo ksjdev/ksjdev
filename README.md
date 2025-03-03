@@ -25,11 +25,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/76" target="_blank">가치 있는 일이란 무엇일까? [feat. 중증외상센터(드라마)]</a>
-2. <a href="https://shqpdltm.tistory.com/74" target="_blank">2025에 갖추고 싶은 역량</a>
-3. <a href="https://shqpdltm.tistory.com/75" target="_blank">함께 자라기, 애자일로 가는 길 | 김창준</a>
-4. <a href="https://shqpdltm.tistory.com/73" target="_blank">살의는 반드시 세 번 느낀다 | 히가시가와 도쿠야</a>
-5. <a href="https://shqpdltm.tistory.com/72" target="_blank">주니어 개발자의 2024년 인생 회고</a>
+1. <a href="https://shqpdltm.tistory.com/77" target="_blank">메타인지를 메타인지 한 사건</a>
+2. <a href="https://shqpdltm.tistory.com/76" target="_blank">가치 있는 일이란 무엇일까? [feat. 중증외상센터(드라마)]</a>
+3. <a href="https://shqpdltm.tistory.com/74" target="_blank">2025에 갖추고 싶은 역량</a>
+4. <a href="https://shqpdltm.tistory.com/75" target="_blank">함께 자라기, 애자일로 가는 길 | 김창준</a>
+5. <a href="https://shqpdltm.tistory.com/73" target="_blank">살의는 반드시 세 번 느낀다 | 히가시가와 도쿠야</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
