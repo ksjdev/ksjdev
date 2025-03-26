@@ -37,11 +37,11 @@
   <summary>WIL</summary>
 <!-- LATEST_TILS -->
 
-1. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-11%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 11주차</a>
-2. <a href="https://velog.io/@asdfg7123/%EB%B9%A1%EC%84%BC-%EB%82%A0" target="_blank">빡센 날</a>
-3. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-9%EC%A3%BC%EC%B0%A8-10%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 9주차, 10주차</a>
-4. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-8%EC%A3%BC%EC%B0%A8%EC%A1%B8%EC%97%85" target="_blank">[주단위 회고록] 25년 8주차(졸⭐️업)</a>
-5. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-67%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 6,7주차</a>
+1. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-12%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 12주차</a>
+2. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-11%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 11주차</a>
+3. <a href="https://velog.io/@asdfg7123/%EB%B9%A1%EC%84%BC-%EB%82%A0" target="_blank">빡센 날</a>
+4. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-9%EC%A3%BC%EC%B0%A8-10%EC%A3%BC%EC%B0%A8" target="_blank">[주단위 회고록] 25년 9주차, 10주차</a>
+5. <a href="https://velog.io/@asdfg7123/%EC%A3%BC%EB%8B%A8%EC%9C%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-25%EB%85%84-8%EC%A3%BC%EC%B0%A8%EC%A1%B8%EC%97%85" target="_blank">[주단위 회고록] 25년 8주차(졸⭐️업)</a>
 
 <!-- LATEST_TILS_END -->
 </details>
