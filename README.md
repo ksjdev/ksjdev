@@ -25,11 +25,11 @@
 <div align="left">
 <!-- LATEST_POSTS -->
 
-1. <a href="https://shqpdltm.tistory.com/82" target="_blank">나는 매일 두 번 출근합니다 | 박근필</a>
-2. <a href="https://shqpdltm.tistory.com/81" target="_blank">침대 부수기 | 에번 카마이클</a>
-3. <a href="https://shqpdltm.tistory.com/80" target="_blank">마음을 쉬게 하는 법 | 가토 다이조</a>
-4. <a href="https://shqpdltm.tistory.com/79" target="_blank">글또 10기 회고</a>
-5. <a href="https://shqpdltm.tistory.com/78" target="_blank">Next.js Middleware로 Refresh Token Rotation 만들어보기 - 상</a>
+1. <a href="https://shqpdltm.tistory.com/83" target="_blank">250504 생각 기록</a>
+2. <a href="https://shqpdltm.tistory.com/82" target="_blank">나는 매일 두 번 출근합니다 | 박근필</a>
+3. <a href="https://shqpdltm.tistory.com/81" target="_blank">침대 부수기 | 에번 카마이클</a>
+4. <a href="https://shqpdltm.tistory.com/80" target="_blank">마음을 쉬게 하는 법 | 가토 다이조</a>
+5. <a href="https://shqpdltm.tistory.com/79" target="_blank">글또 10기 회고</a>
 
 <!-- LATEST_POSTS_END -->
 </div>
