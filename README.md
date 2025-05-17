@@ -4,25 +4,16 @@
 현재는 FE 분야로 커리어를 이어나가고 있습니다.
 <br />
 <br />
-[![Tistory Badge](https://img.shields.io/badge/기록_블로그-shqpdltm.tistory.com-ff5a4a?style=flat-square&logo=Tistory)](https://shqpdltm.tistory.com/)
-[![Velog Badge](https://img.shields.io/badge/TIL&번역_Velog-@asdfg7123-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@asdfg7123/)
 
 ## 📚History
 | Type | Date | Details | Organization |
 | :---: | :---: | :---: | :---: |
-| UNIV | 17.03 ~ 25.02 | Department of Software | Ajou Univ |
 | EDU | 23.09 ~ 24.03 | 프로그래머스 데브코스 FE 5기 | Programmers |
 | Community | 24.09 ~ 25.03 | 글또 10기 | 글또 |
 | Work | 24.11 ~ | 사내 시스템 개발 | 우주에이엠에프 |
 
-## ✨ SKILL
 
-| Language                                                   | Libraries <br /> Frameworks                                         | Dev Styles                                                                      |                                                                        Infra & DevOps                                                                        | Studying                                          |
-| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=js,ts&perline="/> | <img src="https://skillicons.dev/icons?i=react,vue&perline="/><br/> | <img src="https://skillicons.dev/icons?i=styledcomponents,sass&perline="/><br/> | <img src="https://skillicons.dev/icons?i=aws,vercel,vite&perline="/> <br/> <img src="https://skillicons.dev/icons?i=githubactions,ubuntu,discord&perline="/> | <img src="https://skillicons.dev/icons?i=nextjs"/> |
-
-
-## 📄 최근 블로그 포스팅
+## 📄 블로그 포스팅
 
 <div align="left">
 <!-- LATEST_POSTS -->
