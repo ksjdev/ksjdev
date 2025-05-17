@@ -3,7 +3,6 @@
 안녕하세요. 소프트웨어 엔지니어 김석주입니다.<br />
 현재는 FE 분야로 커리어를 이어나가고 있습니다.
 <br />
-<br />
 
 ## 📚History
 | Type | Date | Details | Organization |
